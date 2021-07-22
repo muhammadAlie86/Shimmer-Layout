@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item>
+        <shape android:shape="oval" android:useLevel="false">
+            <solid android:color="@color/placeHolder"/>
+            <corners android:radius="100dp"/>
+            <stroke android:color="@color/placeHolder"/>
+            <size android:height="300dp"
+                android:width="300dp"/>
+        </shape>
+    </item>
+
+</selector>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Destination</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="describe_image_destination">describe image destination</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="location">location</string>
+    <string name="describe_image_profile">describe image profile</string>
+    <string name="my_name">Muhammad Ali Mukti</string>
+    <string name="my_email">aliemuhammad847@gmail.com</string>
+    <string name="describe_logo_app">describe logo app</string>
+    <string name="detail_destination">Detail Destination</string>
+    <string name="profile">Profile</string>
+    <string name="destination">Destination</string>
+    <string name="move_to_profile">move to profile</string>
+</resources>

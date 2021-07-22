@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="src/main/res/drawable/ic_anambas.jpg" />
+        <ignore path="src/main/res/drawable/ic_danau_toba.jpg" />
+        <ignore path="src/main/res/drawable/ic_kepulauan_seribu.jpg" />
+        <ignore path="src/main/res/drawable/ic_mandalika.jpg" />
+        <ignore path="src/main/res/drawable/ic_ngarai_sianok.jpg" />
+        <ignore path="src/main/res/drawable/ic_nusa_dua.jpg" />
+        <ignore path="src/main/res/drawable/ic_pantai_parai.jpg" />
+        <ignore path="src/main/res/drawable/ic_profile_image.png" />
+        <ignore path="src/main/res/drawable/ic_pulau_peucang.jpg" />
+        <ignore path="src/main/res/drawable/ic_pura.jpg" />
+        <ignore path="src/main/res/drawable/ic_waykambas.jpg" />
+    </issue>
+</lint>
